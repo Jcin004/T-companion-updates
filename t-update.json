@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "packageName": "io.jcin.tcompanion",
+  "versionCode": 9,
+  "versionName": "0.7.0-trial",
+  "apkUrl": "https://github.com/Jcin004/T-companion-updates/releases/download/android-v0.7.0/T-companion-0.7.0-trial.apk",
+  "sha256": "c56d11eef7aba2c6b20d304ed229ef907b000f51a4d68ce94de6c09cf67e3d95",
+  "sizeBytes": 4189672,
+  "releaseNotes": [
+    "新增有向记忆关联与核心标签依据，保留来源原话",
+    "修复并发保存与草稿持久化，关联修改后提示复核",
+    "接通公开试用版更新渠道，下载后校验大小、SHA-256、包名、版本与签名",
+    "覆盖更新保留角色、聊天记录、API 配置与外观"
+  ]
+}
