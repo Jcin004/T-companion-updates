@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "packageName": "io.jcin.tcompanion",
+  "versionCode": 20,
+  "versionName": "0.13.2-trial",
+  "sourceCommit": "c1ce5395c1b91ca48039ee18c62601f864dec538",
+  "apkUrl": "https://github.com/Jcin004/T-companion-updates/releases/download/android-v0.13.2/T-companion-0.13.2-trial.apk",
+  "sha256": "f9cdf7bba344a12093476a4d832fc21b494812aac3f2b21605bd467738974c4e",
+  "sizeBytes": 80049849,
+  "releaseNotes": [
+    "检查更新优先读取直接清单，缩短超时并共用检查等待预算",
+    "下载中断或暂停后继续，切换设置页保留同一任务、进度和速度",
+    "保留包名、版本、大小、SHA-256、签名校验和原权限安装流程",
+    "覆盖安装保留人物、聊天、记忆、世界与模型配置"
+  ]
+}
