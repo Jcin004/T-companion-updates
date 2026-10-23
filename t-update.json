@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "packageName": "io.jcin.tcompanion",
-  "versionCode": 23,
-  "versionName": "0.15.0-trial",
-  "sourceCommit": "bda26292fd443e22b825a9cb4b29cd0fd6cadf04",
-  "apkUrl": "https://github.com/Jcin004/T-companion-updates/releases/download/android-v0.15.0/T-companion-0.15.0-trial.apk",
-  "sha256": "9d235222c935cf6c99bfe3b89a525dcc738b4734e379dc67117f7a9a32709dc3",
-  "sizeBytes": 80070766,
+  "versionCode": 24,
+  "versionName": "0.16.0-trial",
+  "sourceCommit": "14e87b92e6b1f75b0c6104320f28ddeb93ad6462",
+  "apkUrl": "https://github.com/Jcin004/T-companion-updates/releases/download/android-v0.16.0/T-companion-0.16.0-trial.apk",
+  "sha256": "f31729310f41bbcfd63d733a26f4d1c27738b14121adb8bfd2678f924477fec9",
+  "sizeBytes": 80091429,
   "releaseNotes": [
-    "行走上传改为四方向切帧表，默认支持三列四行，中间站立；保留旧图集",
-    "移动动画与相邻格保存并行，减少持续移动时每格之间的停顿；失败恢复已保存位置",
-    "表情立绘可自行添加命名和上传；小人表情姿态与物品交互分开管理",
-    "小人动作支持自行添加上传，完成场景回复后仅执行已配置的本人姿态",
-    "沿用原包名与签名，保留聊天、记忆、世界、皮肤和模型配置"
+    "选中朝向和姿势即可上传单张 PNG，整张图集导入收进高级设置",
+    "保留单帧原图，支持缩放、左右/上下对齐、站立对照和单格还原",
+    "人物皮肤、小人姿态和物品交互共用单格编辑，保留旧图集和原有移动规则",
+    "Android 图片选择复用原生文档接口，图片与 JSON 备份分别验证",
+    "原包名与原签名覆盖安装，保留聊天、记忆、世界和模型配置"
   ]
 }
