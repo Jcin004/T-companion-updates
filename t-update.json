@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "packageName": "io.jcin.tcompanion",
-  "versionCode": 22,
-  "versionName": "0.14.2-trial",
-  "sourceCommit": "8658f6af2942e38dc65d72c4c0abf21e4b7cc07e",
-  "apkUrl": "https://github.com/Jcin004/T-companion-updates/releases/download/android-v0.14.2/T-companion-0.14.2-trial.apk",
-  "sha256": "90d0a7b6a7ec88438a72863a14b186d42c58e2712299dd0fdaf1bfc14afcc39f",
-  "sizeBytes": 80066670,
+  "versionCode": 23,
+  "versionName": "0.15.0-trial",
+  "sourceCommit": "bda26292fd443e22b825a9cb4b29cd0fd6cadf04",
+  "apkUrl": "https://github.com/Jcin004/T-companion-updates/releases/download/android-v0.15.0/T-companion-0.15.0-trial.apk",
+  "sha256": "9d235222c935cf6c99bfe3b89a525dcc738b4734e379dc67117f7a9a32709dc3",
+  "sizeBytes": 80070766,
   "releaseNotes": [
-    "人物形象改为人物列表、皮肤衣橱与独立编辑页面",
-    "表情立绘、站立行走、交互动作各有独立分页，交互首屏显示动作卡片",
-    "皮肤使用与编辑保存分开，新建名称独立输入，图集参数折叠调整",
-    "保留旧皮肤和图片，保存失败可重试；切页、返回和未保存提示适配手机",
-    "原包名和原签名覆盖升级，保留聊天、记忆、世界、皮肤与模型配置"
+    "行走上传改为四方向切帧表，默认支持三列四行，中间站立；保留旧图集",
+    "移动动画与相邻格保存并行，减少持续移动时每格之间的停顿；失败恢复已保存位置",
+    "表情立绘可自行添加命名和上传；小人表情姿态与物品交互分开管理",
+    "小人动作支持自行添加上传，完成场景回复后仅执行已配置的本人姿态",
+    "沿用原包名与签名，保留聊天、记忆、世界、皮肤和模型配置"
   ]
 }
