@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "packageName": "io.jcin.tcompanion",
-  "versionCode": 24,
-  "versionName": "0.16.0-trial",
-  "sourceCommit": "14e87b92e6b1f75b0c6104320f28ddeb93ad6462",
-  "apkUrl": "https://github.com/Jcin004/T-companion-updates/releases/download/android-v0.16.0/T-companion-0.16.0-trial.apk",
-  "sha256": "f31729310f41bbcfd63d733a26f4d1c27738b14121adb8bfd2678f924477fec9",
-  "sizeBytes": 80091429,
+  "versionCode": 25,
+  "versionName": "0.17.0-trial",
+  "sourceCommit": "6a45b9e93e3d8df9cd675028d0c5637b71c1a64c",
+  "apkUrl": "https://github.com/Jcin004/T-companion-updates/releases/download/android-v0.17.0/T-companion-0.17.0-trial.apk",
+  "sha256": "8286036a00f19494d2c183838c34116248edfed2f197220e7557ce50b090a819",
+  "sizeBytes": 80103972,
   "releaseNotes": [
-    "选中朝向和姿势即可上传单张 PNG，整张图集导入收进高级设置",
-    "保留单帧原图，支持缩放、左右/上下对齐、站立对照和单格还原",
-    "人物皮肤、小人姿态和物品交互共用单格编辑，保留旧图集和原有移动规则",
-    "Android 图片选择复用原生文档接口，图片与 JSON 备份分别验证",
-    "原包名与原签名覆盖安装，保留聊天、记忆、世界和模型配置"
+    "新增档案 App，按人物管理相册、表情和皮肤动作",
+    "上传图片后可命名并设为自定义表情，世界与原衣橱共用同一图片来源",
+    "已有立绘自动归档，图片删除有使用检查，失败保存可重试",
+    "沿用原包名、签名和 SQLite，保留聊天、记忆、世界及模型配置",
+    "本版先统一图片管理，自动生图尚未接入"
   ]
 }
