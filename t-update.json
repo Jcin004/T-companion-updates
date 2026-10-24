@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "packageName": "io.jcin.tcompanion",
-  "versionCode": 25,
-  "versionName": "0.17.0-trial",
-  "sourceCommit": "6a45b9e93e3d8df9cd675028d0c5637b71c1a64c",
-  "apkUrl": "https://github.com/Jcin004/T-companion-updates/releases/download/android-v0.17.0/T-companion-0.17.0-trial.apk",
-  "sha256": "8286036a00f19494d2c183838c34116248edfed2f197220e7557ce50b090a819",
-  "sizeBytes": 80103972,
+  "versionCode": 26,
+  "versionName": "0.18.0-trial",
+  "sourceCommit": "9d46904d4dd6ab26238ece82ca03114188168ec6",
+  "apkUrl": "https://github.com/Jcin004/T-companion-updates/releases/download/android-v0.18.0/T-companion-0.18.0-trial.apk",
+  "sha256": "d8c64f8916ffa500d65c6b074031e9ba0876d8f86c894a820ae0aa622eb9e2b5",
+  "sizeBytes": 80112346,
   "releaseNotes": [
-    "新增档案 App，按人物管理相册、表情和皮肤动作",
-    "上传图片后可命名并设为自定义表情，世界与原衣橱共用同一图片来源",
-    "已有立绘自动归档，图片删除有使用检查，失败保存可重试",
-    "沿用原包名、签名和 SQLite，保留聊天、记忆、世界及模型配置",
-    "本版先统一图片管理，自动生图尚未接入"
+    "新增真实脚底与身高校准，修正透明留白导致的大小和悬空问题",
+    "可点脚底/头顶、拖动单格、放大编辑，并查看房间试穿效果",
+    "保留原图片、旧皮肤和备份，保存后可继续调整",
+    "沿用原包名、签名与 SQLite；聊天、记忆、模型配置保持兼容",
+    "本版完成服装工作室前两阶段，分层衣服和直接绘画尚未接入"
   ]
 }
