@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "packageName": "io.jcin.tcompanion",
-  "versionCode": 29,
-  "versionName": "0.18.3-trial",
-  "sourceCommit": "1fce06e5a882d123531dacd87ab74bc13a462bf9",
-  "apkUrl": "https://github.com/Jcin004/T-companion-updates/releases/download/android-v0.18.3/T-companion-0.18.3-trial.apk",
-  "sha256": "4a5a62071d6d1b85ebe14e82c9225ac7f361ed2c5c508aa1173a90c47ad8d3ad",
-  "sizeBytes": 80116699,
+  "versionCode": 30,
+  "versionName": "0.19.0-trial",
+  "sourceCommit": "3f2487f84fcdc8f1467b42714d41a69d6e3b076f",
+  "apkUrl": "https://github.com/Jcin004/T-companion-updates/releases/download/android-v0.19.0/T-companion-0.19.0-trial.apk",
+  "sha256": "c5799255b8f48e31a310a0d39df1f740005aac331f32aba956f77c09401a5687",
+  "sizeBytes": 80146448,
   "releaseNotes": [
-    "修正调整第二帧时连带改变其他帧的位置问题",
-    "拖动默认只移动选中格，整张图导入的格子也能独立调整",
-    "整组移动需明确勾选，切换姿势后恢复单格范围；展开数字微调不再改变范围",
-    "行走帧共用固定中心和地面参照，拖动时保留站立叠影，方便纠正左右偏移",
-    "保留原图、旧皮肤、备份和 SQLite，沿用原包名与签名"
+    "衣橱添加皮肤可选择在锁定素体上画衣服，保留原上传方式",
+    "方格画笔支持 1、2、4 像素单位，含橡皮、填色、取色、撤销与重做",
+    "四方向三姿势独立编辑，共用固定脚底；双指放大和平移画布",
+    "绘画草稿自动保存，重启可继续；明确应用后生成原世界可用的行走图集",
+    "沿用原 SQLite、备份、包名和签名，新手绘皮肤默认不开放给 AI"
   ]
 }
