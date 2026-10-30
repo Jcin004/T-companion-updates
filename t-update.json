@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "packageName": "io.jcin.tcompanion",
-  "versionCode": 30,
-  "versionName": "0.19.0-trial",
-  "sourceCommit": "3f2487f84fcdc8f1467b42714d41a69d6e3b076f",
-  "apkUrl": "https://github.com/Jcin004/T-companion-updates/releases/download/android-v0.19.0/T-companion-0.19.0-trial.apk",
-  "sha256": "c5799255b8f48e31a310a0d39df1f740005aac331f32aba956f77c09401a5687",
-  "sizeBytes": 80146448,
+  "versionCode": 31,
+  "versionName": "0.20.0-trial",
+  "sourceCommit": "c817038c747ea8c93afd36784a297ec9ad9b53df",
+  "apkUrl": "https://github.com/Jcin004/T-companion-updates/releases/download/android-v0.20.0/T-companion-0.20.0-trial.apk",
+  "sha256": "83a64d2e1ca23f0d3271826821af543e9cebd9041bf67ab854083011fd17f5cf",
+  "sizeBytes": 81388516,
   "releaseNotes": [
-    "衣橱添加皮肤可选择在锁定素体上画衣服，保留原上传方式",
-    "方格画笔支持 1、2、4 像素单位，含橡皮、填色、取色、撤销与重做",
-    "四方向三姿势独立编辑，共用固定脚底；双指放大和平移画布",
-    "绘画草稿自动保存，重启可继续；明确应用后生成原世界可用的行走图集",
-    "沿用原 SQLite、备份、包名和签名，新手绘皮肤默认不开放给 AI"
+    "世界用户菜单新增独立衣柜，本体、头发、帽子、配饰、上衣、下装、鞋子分别制作",
+    "自己的形象与居民本体均可上传和再次绘画，原方格画笔和草稿恢复保留",
+    "共享素材只保存一份，各人物独立调整身高和衣物大小位置",
+    "首版部位模板驱动站立与迈步，缺少方向会阻止应用；复杂衣型和其他动作待适配",
+    "明确应用生成独立分层穿搭皮肤，保留旧皮肤；原包名、签名、SQLite 与备份不变"
   ]
 }
