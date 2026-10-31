@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "packageName": "io.jcin.tcompanion",
-  "versionCode": 33,
-  "versionName": "0.20.2-trial",
-  "sourceCommit": "377ff9a3e83a01de1c3645b9db24fcb459360398",
-  "apkUrl": "https://github.com/Jcin004/T-companion-updates/releases/download/android-v0.20.2/T-companion-0.20.2-trial.apk",
-  "sha256": "5e8df43da65781d0ce6c9356d5ba9faa610f443fda93785e3697f829ad35f050",
-  "sizeBytes": 81380406,
+  "versionCode": 34,
+  "versionName": "0.21.0-trial",
+  "sourceCommit": "0883d18f1680ee43db0f0d7fa284451678f7b10f",
+  "apkUrl": "https://github.com/Jcin004/T-companion-updates/releases/download/android-v0.21.0/T-companion-0.21.0-trial.apk",
+  "sha256": "16692658927cdef82a0610c75bd26021dff8ab87eee24f24daa817ec674166b8",
+  "sizeBytes": 81388851,
   "releaseNotes": [
-    "电脑绘画支持滚轮定点缩放、右键拖动画布，屏蔽中键误操作",
-    "手机使用单指绘画、双指缩放和平移；双指操作不留下笔迹",
-    "新增 128×192 精细画布，一格为原来的半格，可撤销细化",
-    "旧图保留原样，精细笔画完整保存并用于衣柜与房间，人物大小和落地点不变",
-    "保留 0.20.1 记忆来源、衣柜、聊天、备份、原包名和签名"
+    "记忆按客厅、卧室、书房、用户房、自我房、阁楼、窗台分类，可筛选与人工调整",
+    "新增月度回顾：从已有每日总结精炼，保留原话来源和最近十版修改",
+    "日总结增删或重写后，月度回顾提示复核；生成失败或材料变化不会覆盖已有内容",
+    "旧记忆默认显示在客厅，原文、证据、召回与备份保留",
+    "保留 0.20.2 绘画手势、精细画布、衣柜、世界、原包名和签名"
   ]
 }
