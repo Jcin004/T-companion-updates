@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "packageName": "io.jcin.tcompanion",
-  "versionCode": 37,
-  "versionName": "0.24.0-trial",
-  "sourceCommit": "0406768d1e70962935a9d8da4687bd749db2322e",
-  "apkUrl": "https://github.com/Jcin004/T-companion-updates/releases/download/android-v0.24.0/T-companion-0.24.0-trial.apk",
-  "sha256": "5a4df3523098e13e90ee7883a17f13e075f71f86502255cab6174552f04ebfcc",
-  "sizeBytes": 81488627,
+  "versionCode": 38,
+  "versionName": "0.25.0-trial",
+  "sourceCommit": "f28d87773aa8e792cfe75fc9093133a41cb3501c",
+  "apkUrl": "https://github.com/Jcin004/T-companion-updates/releases/download/android-v0.25.0/T-companion-0.25.0-trial.apk",
+  "sha256": "fd6d00b81c53077dea3053a76029a9cfeaf4e2c0267242f7e60fc408c18ea451",
+  "sizeBytes": 80502114,
   "releaseNotes": [
-    "衣柜、衣物制作和人物本体编辑分为独立页面，不再共用类别和选中状态",
-    "制作页固定显示正在编辑的素材，四方向点选上传，草稿与保存原版分开",
-    "接入 LPC 帧复制与 Fashion Sense 相对图层排序，可分方向设置身体后方或最前",
-    "Piskel 填色继续复用；绘画姿势显示缩略图，新增可撤销的站立帧复制",
-    "保留共用原版、人物适配、整套搭配、聊天和记忆；原签名覆盖升级"
+    "小邻里新增庭院和公共活动室，地点可改名，第三居民从名册选择",
+    "人物提出有限计划，A-Life规则推进日常与离线补算，重要事件才唤醒模型",
+    "接入SullyOS实际人物私信/群聊，独立全屏手机只观察、不代发、不改已读",
+    "桌面首排固定世界/消息/人物，记录/记忆/相册/衣柜独立入口，保留主题与字体",
+    "原聊天、记忆和衣柜保留，升级前自动保留可导出备份；模拟模型及Android11/WebView83验证，真实模型体验待验收"
   ]
 }
